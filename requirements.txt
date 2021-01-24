@@ -1,0 +1,2 @@
+pyTelegramBotAPI==3.7.5
+requests==2.24.0
